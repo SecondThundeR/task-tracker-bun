@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-This is a CLI app for a task from [roadmap.sh](https://roadmap.sh), built using Bun and TypeScript
+This is a CLI app for a task from [roadmap.sh](https://roadmap.sh) built using Bun and TypeScript
 
 This app meets all the [requirements](https://roadmap.sh/projects/task-tracker#requirements) of the task
 
